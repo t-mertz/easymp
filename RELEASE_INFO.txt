@@ -1,0 +1,4 @@
+Changes in version 0.14:
+
+* fixed missing return in FakePool.map_async method
+* changed FakePool.map_async_tracked method to measure job execution times
